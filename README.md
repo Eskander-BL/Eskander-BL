@@ -1,10 +1,10 @@
-### Bonjour, je suis Eskander 👋
+### Bonjour, je suis Eskander 
 
-**Data Analyst / Business Analyst Data**, avec une double compétence finance et data.
+**Data Analyst / Business Analyst Data**, à l'aise avec les données RH et financières.
 
 Pendant 2 ans en alternance à la DSI RH de la SNCF, j'ai fait le lien entre les équipes métier (action sociale, service médical, logement) et les équipes techniques : recueil du besoin, contrôle et rapprochement de données, dashboards Power BI, automatisation en Python.
 
-📍 Lyon · disponible immédiatement
+📍 Lyon · mobile partout en France · disponible immédiatement
 
 ---
 
@@ -30,4 +30,4 @@ Pendant 2 ans en alternance à la DSI RH de la SNCF, j'ai fait le lien entre les
 
 #### 🔗 Me retrouver
 
-[Portfolio](https://feline-bait-769.notion.site/30960226edd880fea3dac93dd3d868df) · [LinkedIn](https://www.linkedin.com/in/eskander-bellarbi-8963aa18a/) · eskander.bellarbi@gmail.com
+[Site perso](https://eskander-bl.github.io) · [Portfolio](https://feline-bait-769.notion.site/30960226edd880fea3dac93dd3d868df) · [LinkedIn](https://www.linkedin.com/in/eskander-bellarbi-8963aa18a/) · eskander.bellarbi@gmail.com
